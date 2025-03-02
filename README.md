@@ -2,6 +2,10 @@
 
 This project is a browser automation agent that uses OpenAI's language model to translate natural language commands into structured JSON actions for browser automation. The agent is capable of interacting with web pages using Playwright, executing actions such as opening URLs, inputting text, clicking elements, and taking screenshots.
 
+## App Screenshot:
+
+![App Screenshot](./image.png)
+
 ## Features
 
 - **Natural Language Processing**: Utilizes OpenAI's language model to convert user commands into JSON actions.
